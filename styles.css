@@ -601,18 +601,40 @@ footer {
 
 /* Responsive */
 @media (max-width: 768px) {
+    header {
+        padding: 15px 0;
+    }
+
     header .container {
         flex-direction: column;
-        gap: 20px;
+        gap: 10px;
+    }
+
+    .logo h1 {
+        font-size: 22px;
+    }
+
+    .logo .tagline {
+        font-size: 12px;
     }
 
     nav {
-        flex-direction: column;
-        gap: 15px;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 10px 15px;
+    }
+
+    nav a {
+        font-size: 13px;
+    }
+
+    nav .cta-button {
+        display: none;
     }
 
     .hero h2 {
-        font-size: 32px;
+        font-size: 28px;
     }
 
     .stats {
@@ -633,6 +655,11 @@ footer {
 
     .comparison-table table {
         font-size: 14px;
+    }
+
+    .comparison-table {
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
     }
 }
 
