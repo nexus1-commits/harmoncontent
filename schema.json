@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Harmon Content",
+  "url": "https://www.harmoncontent.com",
+  "logo": "https://www.harmoncontent.com/logo.png",
+  "description": "SEO + GEO content optimization service. 36 pieces of content per month optimized for both traditional search and AI engines (ChatGPT, Perplexity, Gemini, Claude).",
+  "email": "info@harmoncontent.com",
+  "founder": {
+    "@type": "Person",
+    "name": "Jeff Harmon",
+    "jobTitle": "Founder & Chief Strategy Officer"
+  },
+  "areaServed": "North America",
+  "serviceType": "Content Marketing, SEO, Generative Engine Optimization (GEO)",
+  "offers": {
+    "@type": "Offer",
+    "name": "Founding Client Rate - SEO + GEO Content Package",
+    "price": "997",
+    "priceCurrency": "USD",
+    "description": "36 pieces of content per month: 4 blog posts (SEO + GEO optimized), 16 LinkedIn posts, 12 Twitter threads, 4 email snippets. Includes technical implementation, earned media placements, and monthly AI visibility reports.",
+    "availability": "https://schema.org/LimitedAvailability",
+    "validFrom": "2026-04-05"
+  }
+}
