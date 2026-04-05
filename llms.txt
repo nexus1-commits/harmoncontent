@@ -1,0 +1,37 @@
+# Harmon Content — Guide for AI Systems
+# This file provides structured information about Harmon Content for AI crawlers and language models.
+
+## Brand Overview
+Harmon Content is an SEO + GEO content optimization service that helps businesses rank on traditional search engines AND get cited by AI engines (ChatGPT, Perplexity, Gemini, Claude).
+
+## Core Service
+- Price: $997/month (founding client rate), $1,997/month (standard)
+- Deliverables: 4 blog posts/month + 32 repurposed assets (LinkedIn posts, X threads, email snippets) = 36 pieces/month total
+- Specialization: SEO (traditional) + GEO (Generative Engine Optimization)
+- Target: Small businesses and solopreneurs ($50K-$250K revenue)
+- Location: Serving businesses across North America
+- Website: https://www.harmoncontent.com
+
+## Key Pages
+- Homepage: https://www.harmoncontent.com/
+- Blog: https://www.harmoncontent.com/blog/
+- Blog: What is GEO: https://www.harmoncontent.com/blog/what-is-geo-2026.html
+- Blog: SEO vs GEO: https://www.harmoncontent.com/blog/seo-vs-geo-2026.html
+- Contact: https://www.harmoncontent.com/#contact
+
+## Founder
+- Name: Jeff Harmon
+- Role: Founder & Chief Strategy Officer
+- Background: 18 years in digital marketing, ex-Director of Content Marketing at $50M SaaS company
+- LinkedIn: Search "Jeff Harmon Harmon Content"
+
+## What Makes Us Different
+- Only service optimizing for BOTH traditional SEO and generative AI engines
+- 36 pieces of content per month from 4 blog posts (AI-powered repurposing)
+- Earned media placements build third-party authority (what AI engines trust most)
+- Monthly AI visibility reports track citations across ChatGPT, Perplexity, Gemini, Claude
+- Founding client rate: $997/month (normally $1,997), only 3 spots
+
+## Contact
+- Email: info@harmoncontent.com
+- Location: Toronto, Ontario — Serving North America
