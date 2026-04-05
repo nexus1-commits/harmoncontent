@@ -263,7 +263,15 @@ nav a:hover {
 
 .step h3 {
     color: #2563eb;
-    margin-bottom: 15px;
+    margin-bottom: 8px;
+}
+
+.step .step-week {
+    color: #6b7280;
+    font-size: 14px;
+    font-weight: 600;
+    margin-top: 0;
+    margin-bottom: 12px;
 }
 
 .time-commitment {
