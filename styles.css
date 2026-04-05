@@ -619,18 +619,28 @@ footer {
     }
 
     nav {
-        flex-direction: row;
-        flex-wrap: wrap;
-        justify-content: center;
-        gap: 10px 15px;
-    }
-
-    nav a {
-        font-size: 13px;
-    }
-
-    nav .cta-button {
         display: none;
+    }
+
+    .cta-button {
+        display: none;
+    }
+
+    header {
+        position: relative;
+        padding: 10px 0;
+    }
+
+    .logo {
+        text-align: center;
+    }
+
+    .logo h1 {
+        font-size: 20px;
+    }
+
+    .logo .tagline {
+        font-size: 11px;
     }
 
     .hero h2 {
